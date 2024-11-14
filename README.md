@@ -1,1 +1,1 @@
-ValidationPipeline.png
+![Pipeline Diagram](/images/ValidationPipeline.png)
