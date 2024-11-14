@@ -1,8 +1,11 @@
-A[ck3_common_utils.py] --> B[check_encoding.py]
-B --> C[check_encoding_item.py]
-C --> D[check_suffixes.py]
-D --> E[check_suffix_item.py]
-E --> F[check_database.py]
-F --> G[check_database_item.py]
-G --> H[check_localization_file_endings.py]
-H --> I[get_items_in_file.csx]
+CK3 Mod Validation Pipeline:
+
+ck3_common_utils.py 
+└── check_encoding.py
+    └── check_encoding_item.py
+        └── check_suffixes.py
+            └── check_suffix_item.py
+                └── check_database.py
+                    └── check_database_item.py
+                        └── check_localization_file_endings.py
+                            └── get_items_in_file.csx
