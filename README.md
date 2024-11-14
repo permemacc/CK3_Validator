@@ -1,1 +1,1 @@
-![Pipeline Diagram](/images/Validation-Pipeline.png)
+![Pipeline Diagram](/images/ValidationPipeline.png)
